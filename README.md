@@ -1,2 +1,2 @@
-# STAT315-Multivariate-Statistical-Methods
-Multivariate Statistical Methods (R)
+# Multivariate-Statistical-Methods
+STAT315 (R)
